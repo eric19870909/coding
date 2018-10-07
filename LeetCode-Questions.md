@@ -1,6 +1,3 @@
-## Repo
-https://github.com/chubbysingh/coding/tree/master/src/Leetcode
-
 ## Questions
 
 👍 - Unlocked & Done
